@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-kumar-saxena-04291221/">LinkedIn</a> | <a href="#">YouTube</a> | <a href="#">X</a> | <a href="#">Newsletter</a>
+  <a href="https://www.linkedin.com/in/ashish-kumar-saxena-04291221/">LinkedIn</a> | <a href="#">YouTube</a> | <a href="https://stackoverflow.com/users/2863515/ashish-kumar-saxena">Stackoverflow</a> | <a href="#">Newsletter</a>
 </p>
 This repository contains resources to prepare for interviews using free resources.
 
